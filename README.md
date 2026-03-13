@@ -2,13 +2,16 @@
 
 Modelagem de Cliente Bancário
 
-Apresentação/n
+Apresentação
+
 Sou um estudante de 21 anos da graduação de Engenharia da Computação. Este projeto tem como objetivo demonstrar a aplicação de Programação Orientada a Objetos em Python, implementando regras de negócio financeiras e isolando a lógica de processamento de dados da interface do usuário. A entrega serve como validação técnica de modelagem de sistemas, arquitetura de código e cálculo de sistemas de amortização.
 
-Descrição do Projeto/n
+Descrição do Projeto
+
 O repositório contém um sistema que simula as operações de uma conta corrente bancária. A aplicação é dividida rigorosamente entre a modelagem matemática/lógica e a interação com o usuário, garantindo a coesão das classes.
 
-Estrutura do Código/n
+Estrutura do Código
+
 Classe Core (Domínio): Arquivo que abriga a classe do Cliente Bancário. Gerencia os dados pessoais, histórico de movimentações e cálculos financeiros. Estritamente livre de comandos de entrada e saída (input/print).
 
 Interface (Main): Arquivo separado responsável exclusivamente pela interação com o usuário, menus, coleta de datas/valores via terminal e formatação das saídas visuais.
